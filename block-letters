@@ -1,0 +1,15 @@
+#Rachel LaQuea
+#I love to sing!
+
+name = """
+  RRRR      L
+  R   R     L
+  R   R     L
+  RRRR      L
+  R   R     L
+  R    R    L
+  R     R   LLLLL
+"""
+
+print(name)
+
